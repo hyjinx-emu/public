@@ -1,2 +1,2 @@
-# public
-All things Hyjinx (minus the source code)
+# Welcome
+Thank you for showing an interest in the Hyjinx emulator project!
